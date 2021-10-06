@@ -1,0 +1,276 @@
+
+|    FLUXO DE CAIXA MÊS 12             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				5000,00 		 8500,00 		 11000,00 		 25000,00 		 5000,00
+|  Fluxo de caixa Operacional          				
+|   (+) Receita com vendas             				15000,00 		 1500,00 		 10000,00 		 3500,00 		 35000,00
+|   (-) Pagamentos a fornecedores      				5000,00 		 0,00 		 0,00 		 20000,00 		 40000,00
+|   (-) Pagamentos a funcionários      				5000,00 		 9000,00 		 0,00 		 0,00 		 19000,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 6000,00 		 0,00 		 11000,00
+|   (=) SALDO CAIXA OPERACIONAL        				5000,00 		 -7500,00 		 4000,00 		 -16500,00 		 -15000,00
+|  Fluxo de caixa de inverstimento     				
+|   (+) Vendas de imobilizados         				0,00 		 10000,00 		 0,00 		 0,00 		 15000,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 10000,00 		 0,00 		 10000,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 10000,00 		 -10000,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 20000,00 		 0,00 		 20000,00
+|   (-) Amortização de empréstimos     				1500,00 		 0,00 		 0,00 		 1500,00 		 3000,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 1500,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				-1500,00 		 0,00 		 20000,00 		 -1500,00 		 17000,00
+|   (=) SALDO INICIAL DO PERÍODO       				5000,00 		 8500,00 		 11000,00 		 25000,00 		 5000,00
+|   (=) RESULTADO DO PERÍODO           				3500,00 		 2500,00 		 14000,00 		 -18000,00 		 7000,00
+|   (=) SALDO FINAL DO PERÍODO         				8500,00 		 11000,00 		 25000,00 		 7000,00 		 55000,00
+
+|    FLUXO DE CAIXA MÊS 12             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				- 		 - 		 - 		 - 		 -
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+
+|    FLUXO DE CAIXA MÊS 12             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				----- 		 ------- 		 -------- 		 - 		 -
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+
+|    FLUXO DE CAIXA MÊS 11             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				----- 		 ----------- 		 ----------- 		 ----------- 		 -
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+
+|    FLUXO DE CAIXA MÊS 11             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+
+|    FLUXO DE CAIXA MÊS 15             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+
+|    FLUXO DE CAIXA MÊS 35             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+
+|    FLUXO DE CAIXA MÊS 11             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 10000,00 		 25000,00 		 29000,00 		 0,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				10000,00 		 15000,00 		 4000,00 		 10000,00 		 39000,00
+|   (-) Pagamentos a fornecedores      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a funcionários      				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				10000,00 		 15000,00 		 4000,00 		 10000,00 		 39000,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 10000,00 		 25000,00 		 29000,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				10000,00 		 15000,00 		 4000,00 		 10000,00 		 39000,00
+|   (=) SALDO FINAL DO PERÍODO         				10000,00 		 25000,00 		 29000,00 		 39000,00 		 103000,00
+
+|    FLUXO DE CAIXA MÊS 12             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				5000,00 		 5000,00 		 -1000,00 		 -1000,00 		 5000,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				3000,00 		 0,00 		 3000,00 		 1000,00 		 7000,00
+|   (-) Pagamentos a fornecedores      				0,00 		 3000,00 		 0,00 		 0,00 		 3000,00
+|   (-) Pagamentos a funcionários      				0,00 		 3000,00 		 3000,00 		 3000,00 		 9000,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA OPERACIONAL        				3000,00 		 -6000,00 		 0,00 		 -2000,00 		 -5000,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				5000,00 		 5000,00 		 -1000,00 		 -1000,00 		 5000,00
+|   (=) RESULTADO DO PERÍODO           				3000,00 		 -6000,00 		 0,00 		 -2000,00 		 -5000,00
+|   (=) SALDO FINAL DO PERÍODO         				8000,00 		 -1000,00 		 -1000,00 		 -3000,00 		 3000,00
+
+|    FLUXO DE CAIXA MÊS 124             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				5000,00 		 8500,00 		 11000,00 		 25000,00 		 5000,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				15000,00 		 1500,00 		 10000,00 		 3500,00 		 30000,00
+|   (-) Pagamentos a fornecedores      				5000,00 		 0,00 		 0,00 		 20000,00 		 25000,00
+|   (-) Pagamentos a funcionários      				5000,00 		 9000,00 		 0,00 		 0,00 		 14000,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 6000,00 		 0,00 		 6000,00
+|   (=) SALDO CAIXA OPERACIONAL        				5000,00 		 -7500,00 		 4000,00 		 -16500,00 		 -15000,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 10000,00 		 0,00 		 0,00 		 10000,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 10000,00 		 0,00 		 10000,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 10000,00 		 -10000,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 20000,00 		 0,00 		 20000,00
+|   (-) Amortização de empréstimos     				1500,00 		 0,00 		 0,00 		 1500,00 		 3000,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA FINANCEIRO         				-1500,00 		 0,00 		 20000,00 		 -1500,00 		 17000,00
+|   (=) SALDO INICIAL DO PERÍODO       				5000,00 		 8500,00 		 11000,00 		 25000,00 		 5000,00
+|   (=) RESULTADO DO PERÍODO           				3500,00 		 2500,00 		 14000,00 		 -18000,00 		 2000,00
+|   (=) SALDO FINAL DO PERÍODO         				8500,00 		 11000,00 		 25000,00 		 7000,00 		 51500,00
+
+|    FLUXO DE CAIXA MÊS 3             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				5000,00 		 8500,00 		 11000,00 		 25000,00 		 5000,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				15000,00 		 1500,00 		 10000,00 		 3500,00 		 30000,00
+|   (-) Pagamentos a fornecedores      				5000,00 		 0,00 		 0,00 		 20000,00 		 -25000,00
+|   (-) Pagamentos a funcionários      				5000,00 		 9000,00 		 6000,00 		 0,00 		 -20000,00
+|   (-) Pagamentos de impostos         				0,00 		 0,00 		 0,00 		 0,00 		 -0,00
+|   (=) SALDO CAIXA OPERACIONAL        				5000,00 		 -7500,00 		 4000,00 		 -16500,00 		 -15000,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 10000,00 		 0,00 		 0,00 		 10000,00
+|   (-) Aquisição de ativos Permanentes				0,00 		 0,00 		 10000,00 		 0,00 		 -10000,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 10000,00 		 -10000,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 20000,00 		 0,00 		 20000,00
+|   (-) Amortização de empréstimos     				1500,00 		 0,00 		 0,00 		 1500,00 		 -3000,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 0,00 		 0,00 		 0,00 		 -0,00
+|   (=) SALDO CAIXA FINANCEIRO         				-1500,00 		 0,00 		 20000,00 		 -1500,00 		 17000,00
+|   (=) SALDO INICIAL DO PERÍODO       				5000,00 		 8500,00 		 11000,00 		 25000,00 		 5000,00
+|   (=) RESULTADO DO PERÍODO           				3500,00 		 2500,00 		 14000,00 		 -18000,00 		 2000,00
+|   (=) SALDO FINAL DO PERÍODO         				8500,00 		 11000,00 		 25000,00 		 7000,00 		 7000,00
+
+|    FLUXO DE CAIXA MÊS 17             				SEMANA 1		SEMANA 2		SEMANA 3		SEMANA 4		 TOTAL 	
+|         (=) Saldo Anterior                          				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa Operacional          				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Receita com vendas             				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamentos a fornecedores      				-0,00 		 -0,00 		 -0,00 		 -0,00 		 -0,00
+|   (-) Pagamentos a funcionários      				-0,00 		 -0,00 		 -0,00 		 -0,00 		 -0,00
+|   (-) Pagamentos de impostos         				-0,00 		 -0,00 		 -0,00 		 -0,00 		 -0,00
+|   (=) SALDO CAIXA OPERACIONAL        				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa de inverstimento     				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Vendas de imobilizados         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Aquisição de ativos Permanentes				-0,00 		 -0,00 		 -0,00 		 -0,00 		 -0,00
+|   (+) Recebimentos de dividendos     				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO CAIXA INVESTIMENTO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|  Fluxo de caixa financiamento        				----------- 		 ----------- 		 ----------- 		 ----------- 		 -----------
+|   (+) Aquisição de emprestímos       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Amortização de empréstimos     				-0,00 		 -0,00 		 -0,00 		 -0,00 		 -0,00
+|   (+) Aporte de capital                       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (-) Pagamento de dividendos        				0,00 		 -0,00 		 -0,00 		 -0,00 		 -0,00
+|   (=) SALDO CAIXA FINANCEIRO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO INICIAL DO PERÍODO       				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) RESULTADO DO PERÍODO           				0,00 		 0,00 		 0,00 		 0,00 		 0,00
+|   (=) SALDO FINAL DO PERÍODO         				0,00 		 0,00 		 0,00 		 0,00 		 0,00
